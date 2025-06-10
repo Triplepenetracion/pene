@@ -4,7 +4,8 @@ config:
   allowed-worlds:
     - world
     - world_nether
-    - world_the_end
+    - ASkyBlock
+  
 
   # Enable/Disable the generator option
   generator: true

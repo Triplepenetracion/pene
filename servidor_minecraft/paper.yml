@@ -12,15 +12,8 @@
 verbose: false
 config-version: 13
 settings:
-  load-permissions-yml-before-plugins: true
   bungee-online-mode: true
-  save-player-data: true
-  sleep-between-chunk-saves: false
-  region-file-cache-size: 256
-  save-empty-scoreboard-teams: false
-  incoming-packet-spam-threshold: 300
-  remove-invalid-statistics: false
-  use-alternative-luck-formula: false
+  load-permissions-yml-before-plugins: true
   min-chunk-load-threads: 2
   suggest-player-names-when-null-tab-completions: true
   watchdog:
@@ -32,14 +25,21 @@ settings:
   book-size:
     page-max: 2560
     total-multiplier: 0.98
+  save-player-data: true
+  sleep-between-chunk-saves: false
+  region-file-cache-size: 256
+  save-empty-scoreboard-teams: false
+  incoming-packet-spam-threshold: 300
+  remove-invalid-statistics: false
+  use-alternative-luck-formula: false
   enable-player-collisions: true
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
 messages:
   kick:
-    authentication-servers-down: ''
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
+    authentication-servers-down: ''
 timings:
   enabled: true
   verbose: true
@@ -140,10 +140,6 @@ world-settings:
     non-player-arrow-despawn-rate: -1
     prevent-tnt-from-moving-in-water: false
     armor-stands-tick: true
-    disable-thunder: false
-    skeleton-horse-thunder-spawn-chance: 0.01
-    disable-ice-and-snow: false
-    fire-physics-event-for-redstone: false
     keep-spawn-loaded: true
     anti-xray:
       enabled: false
@@ -170,9 +166,13 @@ world-settings:
       - planks
     experience-merge-max-value: -1
     armor-stands-do-collision-entity-lookups: true
+    disable-thunder: false
+    skeleton-horse-thunder-spawn-chance: 0.01
+    disable-ice-and-snow: false
+    fire-physics-event-for-redstone: false
     skip-entity-ticking-in-chunks-scheduled-for-unload: true
-    baby-zombie-movement-speed: 0.5
     spawner-nerfed-mobs-should-jump: false
+    baby-zombie-movement-speed: 0.5
     allow-leashing-undead-horse: false
     mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
