@@ -332,3 +332,6 @@ Caused by: java.lang.UnsupportedClassVersionError: dev/incognitojam/oregenerator
 [16:50:03] [Server thread/INFO]: _elu issued server command: /shop
 [16:51:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
 [16:51:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
+[16:53:28] [Server thread/INFO]: _elu issued server command: /shop
+[17:01:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[17:01:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
