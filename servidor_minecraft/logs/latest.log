@@ -309,3 +309,15 @@
 [18:11:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
 [18:11:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
 [18:11:14] [Server thread/INFO]: _elu issued server command: /help EconomySHopgui
+[18:12:00] [Server thread/INFO]: _elu issued server command: /help essentials
+[18:12:05] [Server thread/INFO]: _elu issued server command: /help essentials
+[18:12:20] [Server thread/INFO]: _elu issued server command: /help vault
+[18:12:41] [Server thread/INFO]: _elu issued server command: /vault-info
+[18:17:02] [Server thread/INFO]: _elu issued server command: /sell hand
+[18:17:02] [Server thread/INFO]: Shop >> _elu sold 3 x Emerald(Ores.page1.items.5) for $106.68 with the sell all command.
+[18:17:05] [Server thread/INFO]: _elu issued server command: /sell hand
+[18:17:05] [Server thread/INFO]: Shop >> _elu sold 4 x Ink Sack(Ores.page1.items.12) for $14.44 with the sell all command.
+[18:17:17] [Server thread/INFO]: _elu issued server command: /shop
+[18:21:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[18:21:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
+[18:21:28] [Server thread/INFO]: _elu issued server command: /shop
