@@ -360,3 +360,29 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [18:52:44] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
 [18:52:49] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
 [18:52:49] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 5006ms
+[19:03:16] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[19:03:16] [Server thread/INFO]: _elu lost connection: Server is restarting
+[19:03:16] [Server thread/INFO]: _elu left the game
+[19:03:17] [Server thread/INFO]: Stopping server
+[19:03:17] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.13.1
+[19:03:17] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.9.4
+[19:03:17] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[19:03:17] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v5.4
+[19:03:17] [Server thread/INFO]: [OreGenerator] Disabling OreGenerator v2.1.1
+[19:03:17] [Server thread/INFO]: [OreGenerator] Disabled, (Version: 2.1.1)
+[19:03:17] [Server thread/INFO]: [OreGenerator] Thanks for use my plugin :)
+[19:03:17] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[19:03:17] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.2.0
+[19:03:17] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.1
+[19:03:17] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[19:03:17] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[19:03:17] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[19:03:17] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[19:03:17] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[19:03:17] [Server thread/INFO]: Saving players
+[19:03:17] [Server thread/INFO]: Saving worlds
+[19:03:17] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[19:03:17] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[19:03:17] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[19:03:17] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
+[19:03:17] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether

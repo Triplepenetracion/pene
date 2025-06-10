@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749575377825
+  logout: 1749582196991
   login: 1749577297683
 money: '620.5300000000000005'
 last-account-name: _elu
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 56b3cf74-fade-4207-ab4f-5f1a628fda03
   world-name: ASkyBlock
-  x: 0.4213801494001382
-  y: 119.0
-  z: 200.75820542386512
-  yaw: 261.69830322265625
-  pitch: 58.45054626464844
+  x: -4.401319619983909
+  y: 116.0
+  z: 193.30000001192093
+  yaw: -355.4007568359375
+  pitch: 21.16092872619629
