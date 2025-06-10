@@ -321,3 +321,15 @@
 [18:21:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
 [18:21:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
 [18:21:28] [Server thread/INFO]: _elu issued server command: /shop
+[18:21:35] [Server thread/INFO]: Shop >> _elu bought 4 x Cooked Beef(Food.page1.items.6) for $25.20 with the buy screen.
+[18:23:07] [Server thread/INFO]: _elu issued server command: /shop
+[18:23:18] [Server thread/INFO]: Shop >> _elu bought 33 x Cobblestone(Blocks.page1.items.17) for $22.44 with the buy screen.
+[18:28:01] [Server thread/INFO]: _elu has made the advancement [Diamonds!]
+[18:29:50] [Server thread/INFO]: _elu issued server command: /sell hand
+[18:29:50] [Server thread/INFO]: Shop >> _elu sold 29 x Ink Sack(Ores.page1.items.12) for $104.69 with the sell all command.
+[18:29:54] [Server thread/INFO]: _elu issued server command: /sell hand
+[18:29:54] [Server thread/INFO]: Shop >> _elu sold 6 x Emerald(Ores.page1.items.5) for $213.36 with the sell all command.
+[18:29:58] [Server thread/INFO]: _elu issued server command: /sell hand
+[18:29:58] [Server thread/INFO]: Shop >> _elu sold 17 x Redstone(Ores.page1.items.15) for $22.44 with the sell all command.
+[18:31:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[18:31:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
