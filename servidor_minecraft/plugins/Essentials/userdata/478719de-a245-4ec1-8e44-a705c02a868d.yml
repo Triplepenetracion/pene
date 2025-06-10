@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.18.75.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749403638404
+  login: 1749403573209
+money: '0'
+last-account-name: zknw
+logoutlocation:
+  world: 56b3cf74-fade-4207-ab4f-5f1a628fda03
+  world-name: ASkyBlock
+  x: 1.4669629901496988
+  y: 120.0
+  z: 0.5746430018175674
+  yaw: 133.32464599609375
+  pitch: 62.613548278808594
