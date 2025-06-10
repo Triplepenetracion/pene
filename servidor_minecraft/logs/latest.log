@@ -294,3 +294,10 @@
 [17:42:43] [Server thread/INFO]: _elu issued server command: /oregenerator reload
 [17:45:04] [Server thread/INFO]: _elu issued server command: /oregenerator reload
 [17:50:14] [Server thread/INFO]: _elu issued server command: /shop
+[17:51:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[17:51:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
+[17:51:36] [Server thread/INFO]: _elu issued server command: /sell hand
+[17:51:36] [Server thread/INFO]: Shop >> _elu sold 5 x Ink Sack(Ores.page1.items.12) for $18.05 with the sell all command.
+[17:53:31] [Server thread/INFO]: _elu has made the advancement [Acquire Hardware]
+[18:01:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[18:01:03] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
