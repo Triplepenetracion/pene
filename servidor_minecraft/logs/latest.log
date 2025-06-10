@@ -347,3 +347,16 @@
 [18:51:31] [Server thread/INFO]: _elu issued server command: /bal
 [18:51:36] [Server thread/INFO]: _elu issued server command: /shop
 [18:51:46] [Server thread/INFO]: Shop >> _elu bought 6 x Cooked Beef(Food.page1.items.6) for $37.80 with the buy screen.
+[18:52:42] [Log4j2-TF-1-AsyncLogger[AsyncContext@1b6d3586]-1/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[18:52:44] [Log4j2-TF-1-AsyncLogger[AsyncContext@1b6d3586]-1/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[18:52:44] [Log4j2-TF-1-AsyncLogger[AsyncContext@1b6d3586]-1/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[18:52:44] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[18:52:44] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[18:52:49] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[18:52:49] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 5006ms

@@ -43,7 +43,7 @@ pages:
         sell: 5.25
       '11':
         material: LAPIS_BLOCK
-        buy: 136.44
+        buy: 3
         sell: 34.11
       '12':
         material: LAPIS_LAZULI
