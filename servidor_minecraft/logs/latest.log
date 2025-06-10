@@ -315,3 +315,20 @@ Caused by: java.lang.UnsupportedClassVersionError: dev/incognitojam/oregenerator
 [16:35:25] [Server thread/INFO]: _elu has made the advancement [Stone Age]
 [16:36:33] [Server thread/INFO]: _elu issued server command: /plugins{
 [16:36:36] [Server thread/INFO]: _elu issued server command: /plugins
+[16:41:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[16:41:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
+[16:41:26] [Async Chat Thread - #0/INFO]: <_elu> asd
+[16:43:44] [Async Chat Thread - #1/INFO]: <_elu> asdd
+[16:44:38] [Server thread/INFO]: _elu issued server command: /shop
+[16:47:50] [Server thread/INFO]: _elu issued server command: /bal
+[16:47:50] [Server thread/INFO]: [Essentials] _elu was denied access to command.
+[16:48:09] [Server thread/INFO]: _elu issued server command: /balance
+[16:48:09] [Server thread/INFO]: [Essentials] _elu was denied access to command.
+[16:48:18] [Server thread/INFO]: Opped _elu
+[16:48:27] [Server thread/INFO]: _elu issued server command: /bal
+[16:48:58] [Server thread/INFO]: _elu issued server command: /shop
+[16:49:25] [Server thread/INFO]: _elu issued server command: /sell hand
+[16:49:25] [Server thread/INFO]: Shop >> _elu sold 6 x Cobblestone(Blocks.page1.items.17) for $1.02 with the sell all command.
+[16:50:03] [Server thread/INFO]: _elu issued server command: /shop
+[16:51:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:general(1381320814858866885) because the bot does not have the "Manage Channels" permission
+[16:51:01] [DiscordSRV - Channel Topic Updater/WARN]: [DiscordSRV] Could not set topic of channel TC:consola(1381320848358768790) because the bot does not have the "Manage Channels" permission
