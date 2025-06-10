@@ -7,12 +7,12 @@ teamIslandLocation: ''
 islandLevel: 0
 members: []
 resetsLeft: 2
-deaths: 0
+deaths: 3
 locale: ''
 useControlPanel: false
 startIslandRating: 50
 homeLocations:
-  '1': ASkyBlock:0:120:202:0:1106247680
+  '1': ASkyBlock:0:129:200:0:0
 challenges:
   status:
     expert: false
