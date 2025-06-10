@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2025-06-10 18:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 17:53:31 +0000"
@@ -665,6 +671,12 @@
       "has_diamond": "2025-06-10 18:28:01 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2025-06-10 18:45:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
