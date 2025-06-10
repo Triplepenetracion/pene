@@ -1,0 +1,79 @@
+config:
+
+  # List of allowed worlds in which the plugin works
+  allowed-worlds:
+    - world
+    - world_nether
+    - world_the_end
+
+  # Enable/Disable the generator option
+  generator: true
+
+  # Enable/Disable the new version available message (update-message)
+  update-checker: true
+  # Variables: %plugin%, %version%, %latestversion%, %link%
+  update-message: '%plugin% &bNew version available &e(&f%latestversion%&e)&b, you are using &e(&f%version%&e)&b. Download it here: &7%link%'
+
+messages:
+
+  # Variables: NA
+  help:
+    - '&b<-----------------&aCOMMANDS OREGENERATOR&b----------------->'
+    - '&e/oregenerator help &7Show this message'
+    - '&e/oregenerator reload &7Reload plugin config'
+    - '&e/oregenerator version &7Show plugin version'
+    - '&e/oregenerator author &7Show plugin author'
+    - '&e/oregenerator permissions &7Show plugin permission list'
+    - '&e/oregenerator plugin &7Show plugin download link'
+    - '&7Aliases: &eoregenerator&7, &eog'
+
+  # Variables: %plugin%
+  reload: '%plugin% &aThe plugin has been reloaded'
+
+  # Variables: %plugin%, %version%, %latestversion%
+  version: '%plugin% &aPlugin version: &b%version%'
+
+  # Variables: %plugin%, %author%
+  author: '%plugin% &aPlugin author: &b%author%'
+
+  # Variables: NA
+  permissions:
+    - '&b<-----------------&aPERMISSIONS OREGENERATOR&b----------------->'
+    - '&eoregenerator.* &7OP permissions'
+    - '&eoregenerator.help &7Allow to use &e/oregenerator help'
+    - '&eoregenerator.reload &7Allow to use &e/oregenerator reload'
+    - '&eoregenerator.version &7Allow to use &e/oregenerator version'
+    - '&eoregenerator.author &7Allow to use &e/oregenerator author'
+    - '&eoregenerator.plugin &7Allow to use &e/oregenerator plugin'
+    - '&eoregenerator.permissions &7Allow to use &e/oregenerator permissions'
+    - '&eoregenerator.updatechecker &7Allow receive message if there is an update'
+
+  # Variables: %plugin%
+  command-no-argument: '%plugin% &7Use &e/oregenerator help &7to see the command list'
+
+  # Variables: %plugin%
+  no-perm: '%plugin% &cYou don`t have permission to use that command'
+
+  # Variables: NA
+  console-error: 'You can`t use that command in console'
+
+allowed-ore-generator:
+  coal_ore:
+    percentage: 20
+  iron_ore:
+    percentage: 15
+  gold_ore:
+    percentage: 2
+  diamond_ore:
+    percentage: 1
+  copper_ore:
+    percentage: 3
+  emerald_ore:
+    percentage: 4
+  lapis_ore:
+    percentage: 4
+  redstone_ore:
+    percentage: 3
+    #ancient_debris:
+    #percentage: 1
+  default-material: stone
