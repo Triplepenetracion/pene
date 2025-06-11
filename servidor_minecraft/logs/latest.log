@@ -292,3 +292,30 @@
 [13:12:27] [Server thread/INFO]: Shop >> _elu bought 17 x Cooked Beef(Food.page1.items.6) for $107.10 with the buy screen.
 [13:13:45] [Server thread/INFO]: _elu issued server command: /shop
 [13:13:59] [Server thread/INFO]: Shop >> _elu bought 1 x Lava Bucket(Miscellaneous.page1.items.9) for $69.62 with the buy screen.
+[13:18:49] [Server thread/INFO]: _elu issued server command: /sell hand
+[13:18:49] [Server thread/INFO]: Shop >> _elu sold 32 x Lapis Block(Ores.page1.items.11) for $1,453.76 with the sell all command.
+[13:20:11] [Server thread/INFO]: _elu lost connection: Disconnected
+[13:20:11] [Server thread/INFO]: _elu left the game
+[13:20:20] [Server thread/INFO]: Stopping the server
+[13:20:20] [Server thread/INFO]: Stopping server
+[13:20:20] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.13.1
+[13:20:20] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.9.4
+[13:20:20] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[13:20:20] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v5.4
+[13:20:20] [Server thread/INFO]: [OreGenerator] Disabling OreGenerator v2.1.1
+[13:20:20] [Server thread/INFO]: [OreGenerator] Disabled, (Version: 2.1.1)
+[13:20:20] [Server thread/INFO]: [OreGenerator] Thanks for use my plugin :)
+[13:20:20] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[13:20:20] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.2.0
+[13:20:20] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.1
+[13:20:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[13:20:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[13:20:20] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[13:20:20] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[13:20:20] [Server thread/INFO]: Saving players
+[13:20:20] [Server thread/INFO]: Saving worlds
+[13:20:20] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:20:20] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[13:20:20] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[13:20:20] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
+[13:20:20] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether
