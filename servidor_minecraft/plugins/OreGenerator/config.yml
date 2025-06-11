@@ -64,17 +64,17 @@ allowed-ore-generator:
   iron_ore:
     percentage: 15
   gold_ore:
-    percentage: 2
+    percentage: 8
   diamond_ore:
-    percentage: 10
+    percentage: 15
   copper_ore:
-    percentage: 3
+    percentage: 0
   emerald_ore:
-    percentage: 10
+    percentage: 15
   lapis_ore:
     percentage: 13
   redstone_ore:
-    percentage: 5
+    percentage: 10
     #ancient_debris:
     #percentage: 1
   default-material: stone
